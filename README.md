@@ -52,10 +52,10 @@ The dataset is provided as follows:
 
   | Field | Description |
   | ------------- | ------------- |
+  | t  | timestamp at which the event occurs  |
   | x  | x-coordinate of the pixel at which the event occurs  |
   | y  | y-coordinate of the pixel at which the event occurs  |
-  | p  | polarity of the event (positive or negative)  |
-  | t  | timestamp at which the event occurs  |
+  | p  | polarity of the event (1 for positive or 0 for negative)  |
 
 - an **xml** folder where are contained the labels in PASCAL-VOC format.
 - a **yolo** folder where are contained the labels in YOLO format.
