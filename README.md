@@ -64,4 +64,4 @@ Each folder is divided in train, test, validation and test and the samples are c
   > *frame0000001.npy* is associated with *frame0000001.xml* and *frame0000001.txt*
   
 ## Utils
-The jupyter notebook *Visualize_dataset* can be used to see some examples of the recordings with the corresponding labels. Some test samples are in the **example** folder.
+The jupyter notebook *Visualize_dataset* can be used to see some examples of the recordings, organized as Surface of Active Events (SAE), with the corresponding labels. Some test samples are in the **example** folder.
