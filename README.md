@@ -29,13 +29,18 @@ If you use PEDRo dataset, please cite [our paper](). The code is available under
 The dataset contains # independent people from 20 to 70 years old, recorded in a wide variety of scenarios and  metereological conditions (sunny, snowy and rainy), during day and night. The scenarios are both outdoor and indoor, ranging from mountains, lakes and seafronts to offices and houses.
 The main part of the people in the dataset are walking, but there are also example of people standing and sitting.
 
-IMMAGINI DATASET
+<p align="center">
+      <img src="assets/single_person.gif" width="400" height="301">
+      <img src="assets/two_people.gif" width="400" height="301">
+</p>
 
 ### Dataset collection and labeling
 The dataset has been recorded by using a DAVIS346 event camera which outputs simultaneously events and grayscale frames. The camera has been hand-carried to capture the events and the height of the sensor varies among recordings.
 The dataset has been manually labeled by the authors using the grayscale images.
 
-IMMAGINI LABELED
+<p align="center">
+      <img src="assets/four_sae.gif" width="450" height="366"/>
+</p>
 
 The dataset is composed of 119 recordings and it has been split in train, validation and test sets. Every recording belongs entirely to one of these three groups. 
 The 43 259 bounding boxes have been divided in 34 243 (79.2%) in train, 4372 (10.1%) in validation and 4179 (9.7%) in test. 
