@@ -20,7 +20,8 @@ If you use PEDRo dataset, please cite [our paper](). The code is available under
 @inproceedings{bbpprsPedro2023,
       title={PEDRo: an Event-based Dataset for Person Detection in Robotics},
       author={Boretti, Chiara and Bich, Philippe and Pareschi, Fabio and Prono, Luciano and Rovatti, Riccardo and Setti, Gianluca},
-      booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop (CVPRW)},
+      booktitle={IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)},
+      month=jun,
       year={2023}
 }
 ```
