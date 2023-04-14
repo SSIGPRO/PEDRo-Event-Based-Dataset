@@ -30,7 +30,7 @@ If you use PEDRo dataset, please cite [our paper](). The code is available under
 
 ## Details on the dataset
 
-The dataset contains # independent people from 20 to 70 years old, recorded in a wide variety of scenarios and  metereological conditions (sunny, snowy and rainy), during day and night. The scenarios are both outdoor and indoor, ranging from mountains, lakes and seafronts to offices and houses.
+The dataset contains people from 20 to 70 years old, recorded in a wide variety of scenarios and  metereological conditions (sunny, snowy and rainy), during day and night. The scenarios are both outdoor and indoor, ranging from mountains, lakes and seafronts to offices and houses.
 The main part of the people in the dataset are walking, but there are also example of people standing and sitting.
 
 <p align="center">
