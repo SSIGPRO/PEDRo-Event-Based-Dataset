@@ -51,7 +51,7 @@ The 43 259 bounding boxes have been divided in 34 243 (79.2%) in train, 4372 (10
 In particular, all the bounding boxes are contained in 27 000 samples. Each sample is the stream of events collected in a time interval of 40 ms, time determined by the acquisition rate of the grayscale images used for the manual labeling process.
 
 ### Dataset format
-The dataset is provided as follows:
+The dataset is organized as follows:
 - a **numpy** folder where are contained all the samples. Each sample is a numpy structure where the events are stored, an event is composed of 4 fields:
 
   | Field | Description |
