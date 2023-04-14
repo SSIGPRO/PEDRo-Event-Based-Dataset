@@ -1,0 +1,26 @@
+<annotation>
+	<folder>frame_tmp</folder>
+	<filename>frame0000033.jpg</filename>
+	<path>C:\Users\bichp\Desktop\frame_tmp\frame0000033.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>346</width>
+		<height>260</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>103</ymin>
+			<xmax>145</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+</annotation>
