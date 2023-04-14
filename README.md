@@ -25,6 +25,8 @@ If you use PEDRo dataset, please cite [our paper](). The code is available under
       year={2023}
 }
 ```
+1. C. Boretti, P. Bich, F. Pareschi, L. Prono, R. Rovatti, and G. Setti. "PEDRo: an Event-based Dataset for Person Detection in Robotics", in *2023 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, June 2023
+2. Chiara Boretti, Philippe Bich, Fabio Pareschi, Luciano Prono, Riccardo Rovatti, and Gianluca Setti. PEDRo: an Event-based Dataset for Person Detection in Robotics. In *IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)*, June 2023
 
 ## Details on the dataset
 
