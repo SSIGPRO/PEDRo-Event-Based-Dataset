@@ -14,7 +14,7 @@ The PEDRo dataset can be downloaded [here](https://zenodo.org/record/7823800#.ZD
 
 ## Citations
 
-If you use PEDRo dataset, please cite [our paper](). The code is available under the [BSD-2-Clause License](./LICENSE).
+If you use PEDRo dataset, please cite [our paper](https://tub-rip.github.io/eventvision2023/papers/2023CVPRW_PEDRo_An_Event-based_Dataset_for_Person_Detection_in_Robotics.pdf). The code is available under the [BSD-2-Clause License](./LICENSE).
 
 ```bibtex
 @inproceedings{bbpprsPedro2023,
