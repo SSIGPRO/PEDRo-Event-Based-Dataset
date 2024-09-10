@@ -10,7 +10,7 @@ The dataset is composed of:
 - 27 000 samples of 40 milliseconds each.
 
 This dataset focuses on people, making it a relevant addition to other existing event-based datasets that tackle the person detection task.
-The PEDRo dataset can be downloaded [here]([https://zenodo.org/record/7823800#.ZDiAO3ZBy5c](https://zenodo.org/records/13331985)).
+The PEDRo dataset can be downloaded [here](https://zenodo.org/records/13331985).
 
 ## Citations
 
